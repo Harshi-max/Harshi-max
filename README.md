@@ -98,8 +98,7 @@
 
 - 🧠 Conducted **450+ interviews** at Newton School (DSA + Aptitude)
 - 🏆 Top 5K teams in Hack With India (out of 25K+ participants)
-- 🏅 Naukri CodeQuest #16 – Rank: **206/936 (~Top 22%)**
-- 🔧 Built: **AI psychology assistant**, **AI website generator**, **real-time sign detection**, more
+- 🏅 Naukri CodeQuest #16 –  **Top 22%**
 - 💡 Consistent builder focused on automation, AI, and full-stack systems
 
 ---
