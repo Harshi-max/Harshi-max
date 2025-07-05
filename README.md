@@ -5,11 +5,24 @@
 
 </h1>
 
-<h3 align="center">Full Stack Developer | AI Tool Builder | Technical Interviewer | DSA Enthusiast</h3>
 
+<!-- Animated Typing Heading -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harshi-max&label=Profile%20views&color=0e75b6&style=flat" alt="Harshi-max" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+Tool+Builder;Technical+Interviewer;DSA+Enthusiast" alt="Typing SVG" />
 </p>
+<h3 align="center">
+  <span style="display:inline-block; animation: fadeIn 3s ease-in-out infinite alternate;">
+    Full Stack Developer | AI Tool Builder | Technical Interviewer | DSA Enthusiast
+  </span>
+</h3>
+
+
+<!-- Profile Views Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harshi-max&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+
 
 ---
 
