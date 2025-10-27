@@ -1,50 +1,57 @@
+<!-- Header -->
 <h1 align="center">
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Harshitha+Arava" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Harshitha+Arava!" alt="Typing SVG" />
 </h1>
 
-</h1>
-
-
-<!-- Animated Typing Heading -->
+<!-- Animated Subheading -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+Tool+Builder;Technical+Interviewer;DSA+Enthusiast" alt="Typing SVG" />
 </p>
+
 <h3 align="center">
-  <span style="display:inline-block; animation: fadeIn 3s ease-in-out infinite alternate;">
-    Full Stack Developer | AI Tool Builder | Technical Interviewer | DSA Enthusiast
-  </span>
+  Full Stack Developer | AI Tool Builder | Technical Interviewer | DSA Enthusiast
 </h3>
 
-
-<!-- Profile Views Badge -->
+<!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harshi-max&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Harshi-max&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-
-
 ---
-
-
 
 ## 👩‍💻 About Me
 
 💼 **Technical Interviewer** @ Newton School  
-🧠 Conducted **450+ technical interviews** on DSA & Aptitude for NSAT aspirants  
-📈 Boosted student admissions via strong evaluation frameworks  
+🧠 Conducted **450+ technical interviews** (DSA + Aptitude) for NSAT aspirants  
+📈 Enhanced student selection & evaluation frameworks  
 💻 Solved **600+ DSA problems** on LeetCode, Codeforces, and CodeChef  
-🚀 Passionate about building **AI-powered SaaS tools** and automation products  
-🎯 Currently focused on:
-- **LinkedIn Job Automation Platform**
-- **Advanced MERN Stack + System Design**
-- **Full-stack AI Tooling (Voice, Vision, Intelligence)**
+🌍 **Contributed to 4+ Open Source Programs:**  
+   - GirlScript Summer of Code (GSSoC)  
+   - Social Summer of Code (SSoC)  
+   - Hacktoberfest  
+   - Aperture 2.0 by Resourcio Community  
+🚀 Passionate about building **AI-powered SaaS** & **Automation Products**  
+🎯 Currently focused on:  
+- **Advanced MERN Stack + System Design**  
+- **Voice, Vision & Intelligent AI Tooling**
+
+---
+
+## 🏅 Achievements & Badges
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" title="Pair Extraordinaire" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" title="YOLO" />
+</p>
+
+<p align="center">102+ Contributions | 3+ GitHub Badges | 4+ Open Source Programs</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/harshitha-arava/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
   </a>
@@ -94,35 +101,26 @@
 
 ## 📈 GitHub Stats
 
-<p>
+<p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Harshi-max&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshi-max&theme=tokyonight" />
 </p>
-<p>
+<p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshi-max&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🚀 Currently Building...
 
-> A **Voice-Powered LinkedIn Job Auto-Applier**  
-> - ✅ Smart job filtering  
-> - 📄 Resume parsing  
-> - 🧠 ChatGPT-like interaction  
-> - ⚡ One-click "Easy Apply" automation  
-> - 🎤 Real-time voice assistant for auto-application
-
----
 
 ## ✨ Highlights
 
-- 🧠 Conducted **450+ interviews** at Newton School (DSA + Aptitude)
-- 🏆 Top 5K teams in Hack With India (out of 25K+ participants)
-- 🏅 Naukri CodeQuest #16 –  **Top 22%**
-- 💡 Consistent builder focused on automation, AI, and full-stack systems
+- 🧠 Conducted **450+ interviews** (DSA + Aptitude) @ Newton School  
+- 🌱 **Contributed to 4+ open source programs** (GSSoC, SSoC, Hacktoberfest, Aperture 2.0)  
+- 🏆 **Top 5K** in Hack With India (25K+ teams)  
+- 🥇 **Naukri CodeQuest #16** – Top 22%  
+- 💡 Builder focused on **AI automation, full-stack systems & developer tooling**
 
 ---
 
-> _“Consistency + Curiosity = Unstoppable Growth.”_ — Harshitha 🌱
-
+> _“Consistency + Curiosity = Unstoppable Growth.”_ — **Harshitha 🌱**
