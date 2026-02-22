@@ -10,18 +10,6 @@
 
 ---
 
-## 🚀 About Me
-
-```yaml
-Name: Harshitha Arava
-Role: AI Systems Engineer & Full Stack Developer
-Focus: Scalable Backend Architecture + AI Automation
-Tech Stack: MERN | FastAPI | Cloud | DevOps
-LeetCode Rating: 1769
-Problems Solved: 1000+
-CodeChef: 2⭐
-Mission: Build autonomous, intelligent & scalable software systems
-```
 
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420" />
