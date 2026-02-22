@@ -1,126 +1,187 @@
-<!-- Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Harshitha+Arava!" alt="Typing SVG" />
-</h1>
+# 🌌 Harshitha Arava
 
-<!-- Animated Subheading -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+Tool+Builder;Technical+Interviewer;DSA+Enthusiast" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:8A2BE2,100:FF00FF&height=230&section=header&text=Harshitha%20Arava&fontSize=45&fontAlignY=38&animation=twinkling&fontColor=ffffff" />
 </p>
 
-<h3 align="center">
-  Full Stack Developer | AI Tool Builder | Technical Interviewer | DSA Enthusiast
-</h3>
-
-<!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harshi-max&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=750&color=00F5FF&lines=AI+Systems+Engineer;Full+Stack+Developer;Competitive+Programmer+(1769+LC);Scalable+Backend+Architect;Building+Intelligent+Products+🚀" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 🚀 About Me
 
-💼 **Technical Interviewer** @ Newton School  
-🧠 Conducted **450+ technical interviews** (DSA + Aptitude) for NSAT aspirants  
-📈 Enhanced student selection & evaluation frameworks  
-💻 Solved **600+ DSA problems** on LeetCode, Codeforces, and CodeChef  
-🌍 **Contributed to 4+ Open Source Programs:**  
-   - GirlScript Summer of Code (GSSoC)  
-   - Social Summer of Code (SSoC)  
-   - Hacktoberfest  
-   - Aperture 2.0 by Resourcio Community  
-🚀 Passionate about building **AI-powered SaaS** & **Automation Products**  
-🎯 Currently focused on:  
-- **Advanced MERN Stack + System Design**  
-- **Voice, Vision & Intelligent AI Tooling**
-
----
-
-## 🏅 Achievements & Badges
+```yaml
+Name: Harshitha Arava
+Role: AI Systems Engineer & Full Stack Developer
+Focus: Scalable Backend Architecture + AI Automation
+Tech Stack: MERN | FastAPI | Cloud | DevOps
+LeetCode Rating: 1769
+Problems Solved: 1000+
+CodeChef: 2⭐
+Mission: Build autonomous, intelligent & scalable software systems
+```
 
 <p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" title="Pair Extraordinaire" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" title="YOLO" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420" />
 </p>
 
-<p align="center">102+ Contributions | 3+ GitHub Badges | 4+ Open Source Programs</p>
+<h3 align="center">Building systems that think. Engineering products that scale.</h3>
 
 ---
 
-## 🌐 Connect With Me
+## 🧠 Technical Profile
+
+```javascript
+const harshitha = {
+  pronouns: "She/Her",
+
+  languages: ["Java", "Python", "C++", "JavaScript", "TypeScript"],
+
+  domains: [
+    "Full Stack Development",
+    "AI/ML Systems",
+    "Cloud Architecture",
+    "Automation Engineering"
+  ],
+
+  frontend: ["React.js", "Next.js", "Tailwind CSS", "Shadcn UI"],
+
+  backend: ["Node.js", "Express.js", "FastAPI"],
+
+  databases: ["MongoDB", "PostgreSQL", "NeonDB"],
+
+  devOps: ["Docker", "GitHub Actions", "Linux", "Vercel"],
+
+  aiStack: [
+    "LLM Integrations",
+    "OpenAI APIs",
+    "Automation Agents",
+    "Prompt Engineering"
+  ],
+
+  competitiveProgramming: {
+    leetcodeRating: 1769,
+    problemsSolved: "1000+",
+    codechef: "2⭐"
+  },
+
+  currentFocus: [
+    "System Design",
+    "AI SaaS Products",
+    "Scalable Architectures",
+    "Developer Tooling"
+  ],
+
+  philosophy: "Consistency + Curiosity = Unstoppable Growth 🚀"
+};
+```
+
+---
+
+# ⚡ Tech Stack
+
+## 🚀 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts" />
+</p>
+
+## 🌐 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+## 🔥 Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+## 🗄 Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+</p>
+
+## ⚙ DevOps & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,vercel" />
+</p>
+
+## 🤖 AI / Automation
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="50" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harshitha-arava/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshi-max&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshi-max&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshi-max&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
+
+---
+
+# 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshi-max&theme=tokyo-night&hide_border=true&bg_color=000000" />
+</p>
+
+---
+
+# 🏅 GitHub Badges
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="90" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" />
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Harshi-max&theme=tokyonight&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+
+
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Harshi-max/Harshi-max/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/harshitha-arava/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/Harshi-max" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+  <a href="https://leetcode.com/u/Harshitha2006/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
   </a>
-  <a href="https://leetcode.com/u/Harshitha2006/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
+  <a href="https://github.com/Harshi-max">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
-
-## 🧠 Tech Stack
-
-### 🚀 Languages
-![Java](https://img.shields.io/badge/-Java-F89820?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=postgresql)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css)
-![Shadcn UI](https://img.shields.io/badge/-Shadcn_UI-gray?style=flat-square)
-
-### 🔧 Backend & Databases
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Prisma](https://img.shields.io/badge/-Prisma-3982CE?style=flat-square&logo=prisma)
-![NeonDB](https://img.shields.io/badge/-NeonDB-00E599?style=flat-square)
-
-### 🛠️ Tools & Platforms
-![Clerk](https://img.shields.io/badge/-Clerk-gray?style=flat-square)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
-![Inngest](https://img.shields.io/badge/-Inngest-purple?style=flat-square)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Postman](https://img.shields.io/badge/-Postman-FCA121?style=flat-square&logo=postman)
-
----
-
-## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Harshi-max&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshi-max&theme=tokyonight" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00F5FF&height=120&section=footer"/>
 </p>
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshi-max&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-
-
-## ✨ Highlights
-
-- 🧠 Conducted **450+ interviews** (DSA + Aptitude) @ Newton School  
-- 🌱 **Contributed to 4+ open source programs** (GSSoC, SSoC, Hacktoberfest, Aperture 2.0)  
-- 🏆 **Top 5K** in Hack With India (25K+ teams)  
-- 🥇 **Naukri CodeQuest #16** – Top 22%  
-- 💡 Builder focused on **AI automation, full-stack systems & developer tooling**
-
----
-
 > _“Consistency + Curiosity = Unstoppable Growth.”_ — **Harshitha 🌱**
