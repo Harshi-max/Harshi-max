@@ -82,38 +82,61 @@ const harshitha = {
 
 # ⚡ Tech Stack
 
-## 🚀 Languages
+## 🚀 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,typescript" />
 </p>
 
-## 🌐 Frontend
+---
+
+## 🌐 Frontend (React Ecosystem)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 </p>
 
-## 🔥 Backend
+---
+
+## 🔥 Backend (MERN + API Development)
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=fastapi" />
 </p>
 
-## 🗄 Databases
+---
+
+## 🗄 Databases & ORM
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" />
+  <img src="https://img.shields.io/badge/NeonDB-00E599?style=flat-square" />
 </p>
 
-## ⚙ DevOps & Cloud
+---
+
+## ☁ Cloud, DevOps & Deployment
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,vercel" />
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,vercel,aws" />
 </p>
 
-## 🤖 AI / Automation
+---
+
+## 🤖 AI / LLM / Automation Stack (🔥 Important for Jobs)
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="50" />
 </p>
 
+- LLM Integrations  
+- Prompt Engineering  
+- Automation Agents  
+- AI SaaS Development  
+- Voice / Vision Tooling  
+
 ---
+
 
 # 📊 GitHub Analytics
 
@@ -142,14 +165,6 @@ const harshitha = {
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="90" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" />
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harshi-max&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
 ---
