@@ -50,9 +50,9 @@ const harshitha = {
   ],
 
   competitiveProgramming: {
-    leetcodeRating: 1769,
+    leetcode: Knight(1864),
     problemsSolved: "1000+",
-    codechef: "2⭐"
+    codechef: "3⭐"
   },
 
   currentFocus: [
