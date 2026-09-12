@@ -50,9 +50,9 @@ const harshitha = {
   ],
 
   competitiveProgramming: {
-    leetcode: Knight(1864),
+    leetcode: Knight(1962),
     problemsSolved: "1000+",
-    codechef: "3⭐"
+    codechef: "3⭐(1677)"
   },
 
   currentFocus: [
@@ -139,10 +139,15 @@ const harshitha = {
 
 ---
 
-# 📈 Contribution Activity Graph
+
+
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshi-max&theme=tokyo-night&hide_border=true&bg_color=000000" />
+  <img
+    src="https://ghchart.xqsit94.in/dark:default/Harshi-max"
+    alt="Harshitha's GitHub Contributions"
+  />
 </p>
 
 ---
