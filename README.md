@@ -110,18 +110,44 @@ const harshitha = {
 
 ---
 
-## 🤖 AI / LLM / Automation Stack (🔥 Important for Jobs)
+## 🤖 AI / LLM / Automation Stack 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="50" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi" />
 </p>
 
-- LLM Integrations  
-- Prompt Engineering  
-- Automation Agents  
-- AI SaaS Development  
-- Voice / Vision Tooling  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,aws" />
+</p>
+
+<p align="center">
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="45" />
+
+  <img src="https://cdn.simpleicons.org/huggingface" width="45" />
+
+  <img src="https://cdn.simpleicons.org/langchain" width="45" />
+
+  <img src="https://cdn.simpleicons.org/anthropic" width="45" />
+
+</p>
+
+<p align="center">
+  <b>LLMs</b> •
+  <b>RAG</b> •
+  <b>Generative AI</b> •
+  <b>AI Agents</b> •
+  <b>Embeddings</b> •
+  <b>Vector Search</b> •
+  <b>Vector Databases</b>
+</p>
+
+<p align="center">
+  <b>LangChain</b> •
+  <b>LangGraph</b> •
+  <b>Hugging Face</b> 
+</p>
+
 
 ---
 
